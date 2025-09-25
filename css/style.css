@@ -1,3 +1,93 @@
 @import url("reset.css");
+body{
+    background-color: lightyellow;
+}
+h1{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.point1 .middle-title{
+    color:blueviolet;
+    font-size: 30px;
+}
+.point1.one{
+    color: green;
+}
+.point2 .middle-title{
+    color: darkorange;
+    font-size: 30px;
+}
+.point2 p{
+    color: purple;
+}
+ 
+.point3 .middle-title{
+    color: darkgreen;
+    font-size: 30px;
+}
+.point3 p{
+    color: brown;
+}
+.point4 .middle-title{
+    color: darkcyan;
+    font-size: 30px;
+}
+.point4 p{
+    color: darkred;
 
-
+}
+#point5 .middle-title{
+    color: darkblue;
+    font-size: 30px;
+}
+#point5 p{
+    color: darkmagenta;
+}
+ol{
+    margin-top: 20px;
+    padding-left: 20px;  
+}
+ol li{
+    margin-bottom: 10px;
+}
+.fst{
+    color: blue;
+}
+.sec{
+    color: green;
+}
+.thrd{
+    color:aliceblue
+}
+.frth{
+    color: brown;
+}
+.ffth{
+    color: darkorange;
+}
+footer{
+  color:brown;  
+  text-align: center;
+}
+footer .num{
+    color: red;
+}
+footer .wrd{
+    color: blue;
+}
+img{
+    width: 800px;
+}
+img#economy{
+    width: 400px;
+}
+#history{
+    width: 500px;
+}
+#culture{
+    width: 300px;
+}
+#nature{
+    width: 600px;
+}
